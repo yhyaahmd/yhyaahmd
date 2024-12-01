@@ -30,8 +30,6 @@
 
 ###
 
-<img align="right" height="105" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif?cid=ecf05e47wlbu9x3l59w7fxpg0qtht9160nitm2p83hnwvnz2&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
 ###
 
 <div align="left">
