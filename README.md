@@ -1,8 +1,11 @@
-<br clear="both">
+<h1>Hi, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0076F7&width=435&lines=%3E+Welcome+to+my+github+profile;Always+learning+new+things+;Passionate+developer" alt="Typing SVG" /></a>
+</p>
 
-<h2 align="left">Hi 👋! My name is Yahya Ahmad and I am a passionate beginner frontend developer from Indonesia</h2>
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> I’m currently learning WEB Development Front-end
 
-###
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="javascript logo"  />
@@ -28,10 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="20" alt="canva logo"  />
 </div>
 
-###
-
-###
-
 <div align="left">
   <a href="https://www.youtube.com/@oneshoot5337" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="youtube logo"  />
@@ -52,11 +51,3 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="facebook logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-###
-
-###
